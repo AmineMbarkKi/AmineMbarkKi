@@ -33,7 +33,7 @@
 
 **Languages & Frameworks**  
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,cpp,java,javascript,html,css,flask,django,fastapi,nodejs" />
+  <img src="https://skillicons.dev/icons?i=python,cpp,java,javascript,html,css,flask,django,fastapi,nodejs,langchain" />
 </p>
 
 **Machine Learning & Data**  
