@@ -11,8 +11,8 @@
 
 <!-- BADGES -->
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=AmineMbarki&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" /> 
-  <a href="mailto:aminembarki@example.com"><img src="https://img.shields.io/badge/Email-aminembarki%40example.com-red?style=flat&logo=gmail"></a>
+  <img src="https://komarev.com/ghpvc/?username=AmineMbarkKi&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" /> 
+  <a href="mailto:amine.mbarki2013@gmail"><img src="https://img.shields.io/badge/Email-aminembarki%40example.com-red?style=flat&logo=gmail"></a>
   <a href="https://linkedin.com/in/amine-mbarki"><img src="https://img.shields.io/badge/LinkedIn-Amine%20Mbarki-blue?style=flat&logo=linkedin"></a>
   <a href="https://kaggle.com/aminembarki"><img src="https://img.shields.io/badge/Kaggle-AmineMbarki-20BEFF?style=flat&logo=kaggle"></a>
 </p>
