@@ -99,7 +99,7 @@ Databases & Cloud
 <p align="left">
   <a href="https://www.linkedin.com/in/mohamedamine-mbarki/"><img src="https://img.icons8.com/color/48/000000/linkedin.png"/></a>
   <a href="mailto:amine.mbarki2013@gmail.com"><img src="https://img.icons8.com/color/48/000000/gmail.png"/></a>
-  <a href="https://wa.me/21655450431"><img src="https://img.icons8.com/color/48/000000/whatsapp.png"/></a>
+  <a href="https://wa.me/14384512786"><img src="https://img.icons8.com/color/48/000000/whatsapp.png"/></a>
 </p>
 
 ---
